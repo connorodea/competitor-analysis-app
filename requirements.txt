@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+openai
+fpdf
+textblob
+nltk
+python-dotenv
